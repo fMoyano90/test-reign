@@ -1,2 +1,2 @@
 # test-reign
-Test Rign
+Test Reign
